@@ -56,20 +56,6 @@
   </table>
 </div>
 
-## 🎯 What I Do
-```typescript
-const britishDeveloper = {
-  location: "London, UK 🇬🇧",
-  roles: ["Pentester", "Backend Developer"],
-  currentFocus: "Breaking systems to build them stronger",
-  expertise: {
-    security: ["Penetration Testing", "Vulnerability Assessment", "Security Architecture"],
-    backend: ["API Development", "Microservices", "Cloud Infrastructure"]
-  },
-  philosophy: "Security isn't a feature, it's a foundation"
-};
-```
-
 ## 🔥 Recent Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnonymousDude10&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
